@@ -1,6 +1,8 @@
 # my-action-github
 
-此处列出我关于 github 的使用实践及我觉得不错的资源收集。
+此处列出我关于 github 的使用实践及我发现的觉得不错的资源。
+
+本人常用软件及使用过的软件，戳 => [my-action-softlist](my-action-softlist.md)
 
 # Awesome 系列
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -8,8 +10,9 @@
 - [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) An awesome & curated list of best applications and tools for Windows.
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) A topic-centric list of high-quality open datasets in public domains. 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) A curated list of awesome awesomeness 
-- [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) An awesome Data Science repository to learn and apply for real world problems.
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment) 神级注释
+- [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) Delightful Hyper plugins, themes, and resources
+- [bulutyazilim/awesome-datascience](https://github.com/bulutyazilim/awesome-datascience) An awesome Data Science repository to learn and apply for real world problems.
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) A collection of awesome web crawler,spider in different languages
 - [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) A curated list of awesome Deep Learning tutorials, projects and communities.
 - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem
@@ -30,7 +33,7 @@
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) Collection of material design libs and res. 
-- [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest) A collaborative list of great resources about RESTful API architecture, development, test, and performance
+- [marmelab/awesome-rest](https://github.com/marmelaAwesome-Windows/Awesomeb/awesome-rest) A collaborative list of great resources about RESTful API architecture, development, test, and performance
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) A curated list of awesome R packages, frameworks and software. https://awesome-r.com
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) Curated list of awesome lists
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) A curated list of Docker resources and projects https://awesome-docker.netlify.com/
@@ -39,6 +42,7 @@
 - [wecodexyz/awesome-blockchain-articles](https://github.com/wecodexyz/awesome-blockchain-articles) A collection of awesome blockchain articles. Good learning resources about blockchain.
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) 《后端架构师技术图谱》
 - [xitu/awesome-kotlin-cn](https://github.com/xitu/awesome-kotlin-cn) Kotlin 资源大全，包括教程文章、开源库和框架、Demo 等，由掘金技术社区整理和维护。
+- [https://pythonawesome.com/](https://pythonawesome.com/)
 
 # 集合 系列
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) 中国独立开发者项目列表 -- 分享大家都在做什么
@@ -196,12 +200,16 @@
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) A keyboard-driven, vim-like browser based on PyQt5. https://www.qutebrowser.org/
 - [sunoj/jjb](https://github.com/sunoj/jjb) 京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展 http://jjb.im
 - [tamlok/vnote](https://github.com/tamlok/vnote) A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote
+- [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) Reduces eye strain by adjusting gamma based on the current time http://www.tyrrrz.me/Projects/LightBulb
 - [tzutalin/labelImg](LabelImg is a graphical image annotation tool and label object bounding boxes in images https://youtu.be/p0nR2YsCY_U)
 - [viosey/opage](https://github.com/viosey/opage) Simple homepage for your browser. https://o.viosey.com
 - [wekan/wekan](https://github.com/wekan/wekan) The open-source Trello-like kanban (built with Meteor) https://wekan.github.io
 - [wekan/wekan-mongodb](https://github.com/wekan/wekan-mongodb) Docker: Wekan <=> MongoDB
 - [wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game) 微信《跳一跳》Python 辅助 https://zhuanlan.zhihu.com/p/32452473
 - [zhoubear/open-paperless](https://github.com/zhoubear/open-paperless) Scan, index, and archive all of your paper documents
+- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/) A lightweight utility that makes the Windows taskbar translucent/transparent.
+- [smpic](https://github.com/kookob/smpic) Windows下面的SM.MS图床上传工具
+- [zeit/hyper](https://github.com/zeit/hyper) A terminal built on web technologies
 
 ## MachineLearn && AI Related
 - [anishathalye/neural-style](https://github.com/anishathalye/neural-style) Neural style in TensorFlow! https://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/
