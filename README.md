@@ -2,7 +2,9 @@
 
 此处列出我关于 github 的使用实践及我发现的觉得不错的资源。
 
-本人常用软件及使用过的软件，戳 => [my-action-softlist](my-action-softlist.md)
+## Github Trending
+
+*https://github.com/trending*
 
 # Awesome 系列
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -94,6 +96,8 @@
 - [pandao/editor.md](https://github.com/pandao/editor.md) The open source embeddable online markdown editor (component). https://pandao.github.io/editor.md/
 - [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) One of the 'BEST' markdown preview extensions for Atom editor! 
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) Translation plugin for JetBrains IDE/Android Studio
+- [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) Rainbow Brackets / Rainbow Parentheses for IntelliJ based IDEs
+- [dracula/dracula-theme](https://github.com/dracula/dracula-theme/) A dark theme for all the things! https://draculatheme.com
 
 ## FE Related
 - [abouolia/sticky-sidebar](https://github.com/abouolia/sticky-sidebar) Pure JavaScript tool for making smart and high performance sticky sidebar.
@@ -103,6 +107,7 @@
 - [codrops/GridLoadingAnimations](https://github.com/codrops/GridLoadingAnimations) Some inspiration for loading effects on grid items.
 - [defunkt/jquery-pjax](https://github.com/defunkt/jquery-pjax) pushState + ajax = pjax https://pjax.herokuapp.com
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) A magical documentation site generator. https://docsify.js.org
+- [JohnsenZhou/Front-End-Performance-Checklist](https://github.com/JohnsenZhou/Front-End-Performance-Checklist) 前端性能清单，让你的网站跑的更快.
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) A modern alternative to CSS resets http://necolas.github.io/normalize.css/
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) The blog theme you may fall in love with, coming to Hexo. 
@@ -129,6 +134,7 @@
 - [gusibi/momo](https://github.com/gusibi/momo) 微信聊天机器人
 - [ideawu/ssdb](https://github.com/ideawu/ssdb) SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
 - [robbyrussell/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) A delightful community-driven (with 1,100+ contributors) framework for managing your zsh configuration. 
+- [ThinkpadNC5/MyPerf4J](https://github.com/ThinkpadNC5/MyPerf4J) A high performance and non-intrusive real-time Java method performance monitoring and statistical tool.
 - [wjkang/lazy-mock](https://github.com/wjkang/lazy-mock) 一个快速生成后端模拟数据的懒人工具
 - [Wechat-Group/weixin-java-tools](https://github.com/Wechat-Group/weixin-java-tools) 全能微信Java开发工具包，支持包括微信支付、开放平台、小程序、企业号和公众号等的开发
 - [zzz40500/GsonFormat](https://github.com/zzz40500/GsonFormat) 根据Gson库使用的要求,将JSONObject格式的String 解析成实体.
@@ -239,3 +245,18 @@
 ## 素材 Related
 - [adobe-fonts/source-han-sans](https://github.com/adobe-fonts/source-han-sans) Source Han Sans | 思源黑体 | 思源黑體 | 源ノ角ゴシック | 본고딕 https://adobe.ly/SourceHanSans
 - [feathericons/feather](https://github.com/feathericons/feather) Simply beautiful open source icons https://feathericons.com
+
+## 数据/数据库/数据池 Related
+- [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) 中华新华字典数据库。包括歇后语，成语，汉字。提供新华字典API。
+
+## Famous Framework
+- [electron/electron](https://github.com/electron/electron) Build cross-platform desktop apps with JavaScript, HTML, and CSS https://electronjs.org
+
+## 其它
+- [fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews) A curated collection of common interview questions to help you prepare for your next interview. https://30secondsofinterviews.org
+- [phodal/toolbox](https://github.com/phodal/toolbox) Phodal's Toolbox http://toolbox.phodal.com/
+- [Snailclimb/Java-Guide](https://github.com/Snailclimb/Java-Guide) Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
+
+# 附录
+- 本人常用软件及使用过的软件，戳 => [my-action-softlist](my-action-softlist.md)
+- 本人收集的用过，或以后可能会有用的在线工具，戳 => [my-action-online-tools](my-action-online-tools.md)

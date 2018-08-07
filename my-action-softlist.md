@@ -1,4 +1,4 @@
-# my-action-github
+# my-action-softlist
 
 此处列出我常用的软件及使用过的软件和工具，仅作记录。
 
