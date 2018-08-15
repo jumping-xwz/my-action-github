@@ -47,6 +47,7 @@
 - [Q-Dir](https://q-dir.en.softonic.com/) Free multi-pane file explorer for Windows.
 - [RedisDesktopManager](https://redisdesktop.com/download) 
 - [Robo 3T](https://robomongo.org/) Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts.
+- [Recordit](http://recordit.co/) Fast Screencasts with GIF.
 - [Scoop](https://scoop.sh/) A command-line installer for Windows.
 - [ScreenToGif](http://www.dayanzai.me/screen-to-gif.html) 一款超强 Gif 录像工具
 - [Seer](http://www.1218.io/) A Windows quick look tool. Acts just like the one in macOS, but Seer is more powerful, customizable and faster.
@@ -79,6 +80,7 @@
 ## Windows 应用商店
 - **WSL** Windows Subsystem For Linux
 - **QuickLook** 允许您在不运行关联程序的情况下，通过敲击空格键来快速预览文件内容。
+- **OneQuick** 热键工具
 - **Newsflow** RSS 订阅器.
 
 ## Chrome Plugins

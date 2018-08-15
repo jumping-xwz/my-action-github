@@ -121,6 +121,7 @@
 - [vuejs/vue-devtools](https://github.com/vuejs/vue-devtools) Browser devtools extension for debugging Vue.js applications.
 - [YMFE/yapi](https://github.com/YMFE/yapi) YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [zdhxiong/mdui](https://github.com/zdhxiong/mdui) MDUI 是一个基于 Material Design 的前端框架。 https://www.mdui.org
+- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) 谈谈一些有趣的 CSS 话题
 
 #### ADMIN
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) A magical vue admin http://panjiachen.github.io/vue-element-admin
@@ -164,6 +165,7 @@
 - [Tencent/phxqueue](https://github.com/Tencent/phxqueue) A high-availability, high-throughput and highly reliable distributed queue based on the Paxos algorithm.
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial)
 - [94fzb/zrlog](https://github.com/94fzb/zrlog) ZrLog是使用 Java 开发的博客/CMS程序，具有简约，易用，组件化，内存占用低等特点。自带 Markdown 编辑器，让更多的精力放在写作上，而不是花费大量时间在学习程序的使用上。 http://www.zrlog.com
+- [biezhi/learn-java8](https://github.com/biezhi/learn-java8) 《跟上 Java 8》视频课程源码
 
 #### python
 - [amoffat/sh](https://github.com/amoffat/sh) Python process launching http://amoffat.github.com/sh
@@ -205,6 +207,7 @@
 - [persepolisdm/persepolis](https://github.com/persepolisdm/persepolis) Persepolis Download Manager is a GUI for aria2.
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) A keyboard-driven, vim-like browser based on PyQt5. https://www.qutebrowser.org/
 - [sunoj/jjb](https://github.com/sunoj/jjb) 京价保（京价宝）—— 一个帮助你自动申请京东价格保护的chrome拓展 http://jjb.im
+- [szzhiyang/PerfectWindows](https://github.com/szzhiyang/PerfectWindows) Power Keys and more. https://PerfectWindows.github.io
 - [tamlok/vnote](https://github.com/tamlok/vnote) A Vim-inspired note-taking application that knows programmers and Markdown better. https://tamlok.github.io/vnote
 - [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) Reduces eye strain by adjusting gamma based on the current time http://www.tyrrrz.me/Projects/LightBulb
 - [tzutalin/labelImg](LabelImg is a graphical image annotation tool and label object bounding boxes in images https://youtu.be/p0nR2YsCY_U)
@@ -216,6 +219,7 @@
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB/) A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [smpic](https://github.com/kookob/smpic) Windows下面的SM.MS图床上传工具
 - [zeit/hyper](https://github.com/zeit/hyper) A terminal built on web technologies
+- [KOHGYLW/kiftd](https://github.com/KOHGYLW/kiftd) 一款便捷、开源、功能完善的个人&团队&小型组织网盘服务器系统
 
 ## MachineLearn && AI Related
 - [anishathalye/neural-style](https://github.com/anishathalye/neural-style) Neural style in TensorFlow! https://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/
