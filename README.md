@@ -158,6 +158,7 @@
 - [portainer/portainer](https://github.com/portainer/portainer) Simple management UI for Docker http://portainer.io
 - [renrenio/renren-security](https://github.com/renrenio/renren-security) 采用Spring、MyBatis、Shiro框架，开发的一套权限系统，极低门槛，拿来即用。设计之初，就非常注重安全性，为企业系统保驾护航，让一切都变得如此简单。
 - [RichardWarburton/java-8-lambdas-exercises](https://github.com/RichardWarburton/java-8-lambdas-exercises) Exercises and Answers for Java 8 Lambdas book
+- [RxJava](https://github.com/ReactiveX/RxJava) Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
 - [square/okhttp](https://github.com/square/okhttp) An HTTP+HTTP/2 client for Android and Java applications. http://square.github.io/okhttp/
 - [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui) Swagger UI is a collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API. http://swagger.io
@@ -193,6 +194,7 @@
 - [docker/kitematic](https://github.com/docker/kitematic) Visual Docker Container Management on Mac & Windows https://kitematic.com
 - [getnikola/nikola](https://github.com/getnikola/nikola) A static website and blog generator https://getnikola.com/
 - [git-cola/git-cola](https://github.com/git-cola/git-cola) git-cola: The highly caffeinated Git GUI https://git-cola.github.io/
+- [git-open](https://github.com/paulirish/git-open) Type `git open` to open the GitHub page or website for a repository in your browser. 
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) Democratizing Snippet Management (macOS/Win/Linux) http://hackjutsu.com/Lepton
 - [imsun/gitment](https://github.com/imsun/gitment) A comment system based on GitHub Issues. https://imsun.github.io/gitment/
 - [jhchen/ansize](https://github.com/jhchen/ansize) Convert images to binary ANSI art
@@ -260,7 +262,3 @@
 - [fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews) A curated collection of common interview questions to help you prepare for your next interview. https://30secondsofinterviews.org
 - [phodal/toolbox](https://github.com/phodal/toolbox) Phodal's Toolbox http://toolbox.phodal.com/
 - [Snailclimb/Java-Guide](https://github.com/Snailclimb/Java-Guide) Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
-
-# 附录
-- 本人常用软件及使用过的软件，戳 => [my-action-softlist](my-action-softlist.md)
-- 本人收集的用过，或以后可能会有用的在线工具，戳 => [my-action-online-tools](my-action-online-tools.md)
