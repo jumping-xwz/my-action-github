@@ -2,6 +2,8 @@
 
 此处列出我关于 github 的使用实践及我发现的觉得不错的资源。
 
+- 20180803 增加`开源中国`  
+
 ## Github Trending
 
 *https://github.com/trending*
@@ -35,6 +37,7 @@
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) TensorFlow - A curated list of dedicated resources http://tensorflow.org
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 - [lightSky/Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) Collection of material design libs and res. 
+- [lzyzsd/Awesome-RxJava](https://github.com/lzyzsd/Awesome-RxJava) RxJava resources
 - [marmelab/awesome-rest](https://github.com/marmelaAwesome-Windows/Awesomeb/awesome-rest) A collaborative list of great resources about RESTful API architecture, development, test, and performance
 - [qinwf/awesome-R](https://github.com/qinwf/awesome-R) A curated list of awesome R packages, frameworks and software. https://awesome-r.com
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) Curated list of awesome lists
@@ -65,6 +68,7 @@
 - [crossoverJie/Java-Interview](https://github.com/crossoverJie/Java-Interview) Java 知识点
 - [docker-library/docs](https://github.com/docker-library/docs) Documentation for Docker Official Images in docker-library
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
+- [hehonghui/mockito-doc-zh](https://github.com/hehonghui/mockito-doc-zh) Mockito 中文文档 ( 2.0.26 beta )
 - [jacksu/machine-learning](https://github.com/jacksu/machine-learning) 从零基础开始机器学习之旅
 - [jikexueyuanwiki/tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh) 谷歌全新开源人工智能系统TensorFlow官方文档中文版
 - [judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial) IntelliJ IDEA 简体中文专题教程
@@ -262,3 +266,7 @@
 - [fejes713/30-seconds-of-interviews](https://github.com/fejes713/30-seconds-of-interviews) A curated collection of common interview questions to help you prepare for your next interview. https://30secondsofinterviews.org
 - [phodal/toolbox](https://github.com/phodal/toolbox) Phodal's Toolbox http://toolbox.phodal.com/
 - [Snailclimb/Java-Guide](https://github.com/Snailclimb/Java-Guide) Java面试通关手册（Java学习指南）Java Interview Customs Manual (Java Study Guide)
+
+
+# 开源中国
+- [ripgrep](https://www.oschina.net/p/ripgrep) 正则表达式搜索工具
